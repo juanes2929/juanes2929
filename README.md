@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Juan
 
 Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry Pi**, **Python**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. Me apasiona construir soluciones efectivas y prácticas para problemas del mundo real, desde aplicaciones web hasta proyectos embebidos en hardware.
 
