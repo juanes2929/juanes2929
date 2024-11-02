@@ -45,7 +45,7 @@ Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry
 ### 🌐 Contacto
 
 - **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/TuPerfil/)
-- **Correo:** TuCorreo@ejemplo.com
+- **Correo:** jodofedosja@gmail.com
 
 ---
 
