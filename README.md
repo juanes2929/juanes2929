@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Juan
 
-Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles, y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables.
+Soy un desarrollador con 2 años de experiencia en **Raspberry Pi**, **Python (Flask, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. Además, he trabajado en **servicios de comunicación** como **usuarios**, **servidores**, **MQTT**, **SDK**, **Socket.IO** y más. Me apasiona construir soluciones eficientes y escalables para proyectos web, móviles y embebidos.
 
-![Visitas a mi perfil](https://komarev.com/ghpvc/?username=TuUsuario&style=flat-square&color=blue)
+![Visitas a mi perfil](https://komarev.com/ghpvc/?juanes2929=TuUsuario&style=flat-square&color=blue)
 
 ---
 
