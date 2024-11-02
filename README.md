@@ -37,7 +37,7 @@ Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry
 
 ### 🔥 Actividad y Contador de Commits
 
-![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical)
+![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?user=juanes2929&theme=radical)
 > *Este contador refleja la actividad continua de commits, ayudándome a mejorar mi ritmo de contribuciones y a mantener la constancia en mis proyectos.*
 
 ---
