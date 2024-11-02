@@ -2,7 +2,6 @@
 
 Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
 
-![Visitas a mi perfil](https://komarev.com/ghpvc/?username=TuUsuario&style=flat-square&color=blue)
 
 ---
 
@@ -52,7 +51,6 @@ Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry
 
 ### 🌐 Contacto
 
-- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/TuPerfil/)
 - **Correo:** jodofedosja@gmail.com
 
 ---
