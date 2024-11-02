@@ -2,7 +2,7 @@
 
 Soy un desarrollador con 2 años de experiencia en **Raspberry Pi**, **Python (Flask, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. Además, he trabajado en **servicios de comunicación** como **usuarios**, **servidores**, **MQTT**, **SDK**, **Socket.IO** y más. Me apasiona construir soluciones eficientes y escalables para proyectos web, móviles y embebidos.
 
-![Visitas a mi perfil](https://komarev.com/ghpvc/?juanes2929=TuUsuario&style=flat-square&color=blue)
+
 
 ---
 
@@ -23,8 +23,16 @@ Soy un desarrollador con 2 años de experiencia en **Raspberry Pi**, **Python (F
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### Servicios y Comunicación
+<p>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDK-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
 #### Herramientas y Otros
@@ -37,14 +45,13 @@ Soy un desarrollador con 2 años de experiencia en **Raspberry Pi**, **Python (F
 
 ### 🔥 Actividad y Contador de Commits
 
-![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?user=juanes2929&theme=radical)
+![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?juanes2929=TuUsuario&theme=radical)
 > *Este contador refleja la actividad continua de commits, ayudándome a mejorar mi ritmo de contribuciones y a mantener la constancia en mis proyectos.*
 
 ---
 
 ### 🌐 Contacto
 
-- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/TuPerfil/)
 - **Correo:** jodofedosja@gmail.com
 
 ---
