@@ -2,7 +2,6 @@
 
 Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
 
-
 ---
 
 ### 🚀 Tecnologías y Herramientas
@@ -38,6 +37,8 @@ Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 ---
