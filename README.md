@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<!--
-**juanes2929/juanes2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador con 2 años de experiencia en tecnologías como **Raspberry Pi**, **Python**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. Me apasiona construir soluciones efectivas y prácticas para problemas del mundo real, desde aplicaciones web hasta proyectos embebidos en hardware.
 
-Here are some ideas to get you started:
+![Contador de commits](https://komarev.com/ghpvc/?username=TuUsuario&style=flat-square&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Habilidades
+
+- **Lenguajes y Frameworks:** Python, Java, JavaScript, React
+- **Desarrollo Web:** HTML, CSS, Node.js, Java Web
+- **Hardware:** Proyectos en Raspberry Pi
+- **Otros:** Git, control de versiones, trabajo en equipo y colaboración en proyectos
+
+---
+
+### 📈 Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Actividad y Contador de Commits
+
+![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical)
+
+---
+
+### 🌐 Contacto
+
+- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/TuPerfil/)
+- **Correo:** TuCorreo@ejemplo.com
+
+---
+
+> *Si estás interesado en colaborar o simplemente charlar sobre tecnología, ¡contáctame!*
