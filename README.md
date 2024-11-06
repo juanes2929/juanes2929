@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan
 
-Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, Kivy, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **PHP**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
+Soy un desarrollador con 1 año de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, Kivy, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **PHP**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
 
 ---
 
@@ -43,6 +43,7 @@ Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
