@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan
 
-Soy un desarrollador con 1 años de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
+Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, Kivy, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **PHP**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
 
 ---
 
@@ -10,11 +10,15 @@ Soy un desarrollador con 1 años de experiencia en tecnologías como **Raspberry
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kivy-4B0082?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/KivyMD-4B0082?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 #### Comunicación y Protocolos
