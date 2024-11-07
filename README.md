@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan
 
-Soy un desarrollador con 1 año de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, Kivy, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **PHP**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
+Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como **Raspberry Pi**, **Python (Flask, Kivy, KivyMD)**, **Java**, **Java Web**, **HTML**, **CSS**, **PHP**, **Node.js**, **JavaScript** y **React**. He trabajado en proyectos web, aplicaciones móviles y desarrollo embebido, con un enfoque en la creación de soluciones funcionales y escalables en áreas como servicios de comunicación, sistemas de usuario, servidores, SDKs y protocolos de comunicación como MQTT.
 
 ---
 
@@ -52,6 +52,12 @@ Soy un desarrollador con 1 año de experiencia en tecnologías como **Raspberry 
 
 ![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?user=juanes2929&theme=radical)
 > *Este contador refleja la actividad continua de commits, ayudándome a mejorar mi ritmo de contribuciones y a mantener la constancia en mis proyectos.*
+
+---
+
+### 🐍 Snake Game de commits
+
+![Snake animation](https://github.com/tu-nombre-de-usuario/tu-nombre-de-usuario/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
