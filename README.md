@@ -55,12 +55,6 @@ Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como
 
 ---
 
-### 🐍 Snake Game de commits
-
-![Snake animation](https://github.com/tu-nombre-de-usuario/tu-nombre-de-usuario/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Contacto
 
 - **Correo:** jodofedosja@gmail.com
