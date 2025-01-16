@@ -46,18 +46,10 @@ Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-### 🔥 Actividad y Contador de Commits
-
-![Contador de commits](https://github-readme-streak-stats.herokuapp.com/?user=juanes2929&theme=radical)
-> *Este contador refleja la actividad continua de commits, ayudándome a mejorar mi ritmo de contribuciones y a mantener la constancia en mis proyectos.*
-
----
-
 ### 🌐 Contacto
 
 - **Correo:** jodofedosja@gmail.com
+- **Telefono:** +57 (324) 705 0832
 
 ---
 
