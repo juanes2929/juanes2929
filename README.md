@@ -48,7 +48,7 @@ Soy un desarrollador con 1 año y unos meses de experiencia en tecnologías como
 
 ### 🌐 Contacto
 
-- **Correo:** jodofedosja@gmail.com
+- **Correo:** estevanreina6@gmail.com
 - **Telefono:** +57 (324) 705 0832
 
 ---
